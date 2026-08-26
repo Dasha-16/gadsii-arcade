@@ -55,9 +55,9 @@ Además de estos dos grupos, otro beneficiario es la propia institución univers
 - Pasajero
 - Validador
 
-**Usuario primario elegido:** Conductor.
+**Usuario primario elegido:** Conductor y Pasajero
 
-**Justificación:** UNLaMigo es un producto de dos lados (conductor y pasajero), donde ambos roles son interdependientes y, en definitiva, la razón de ser del sistema. Sin embargo, el conductor es el lado más escaso: dispone del recurso (el vehículo y el viaje ya planeado) pero hay que convencerlo de compartirlo, mientras que la demanda de pasajeros tiende a aparecer más fácilmente una vez que existe oferta disponible en una zona y horario. Por eso se prioriza validar primero al conductor: si no hay conductores dispuestos a ofrecer sus viajes, no hay producto que ofrecerle al pasajero.
+**Justificación:** UNLaMigo es un producto de dos lados (conductor y pasajero), donde ambos roles son interdependientes y, en definitiva, la razón de ser del sistema. Aunque, el conductor es el lado más escaso: dispone del recurso (el vehículo y el viaje ya planeado) pero hay que convencerlo de compartirlo, mientras que la demanda de pasajeros tiende a aparecer más fácilmente una vez que existe oferta disponible en una zona y horario.
 
 > ⚠️ La selección del usuario primario es una decisión de diseño y, por ahora, es hipotética: todavía no se validó con usuarios reales. El TP2 confirmará si fue acertada.
 
